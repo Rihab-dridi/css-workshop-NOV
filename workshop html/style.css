@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(163, 241, 241);
+}
+/* section {
+    background-color: blanchedalmond;
+} */
+
+#home{
+    background-color: rgba(255, 235, 205, 0.562);
+}
+.title{
+  color: red;
+}
+li{
+    list-style:none
+}
+
+footer li{
+    list-style: none;
+}
+nav a{
+    text-decoration: none; 
+}
+/* img{
+    background-color: burlywood;
+    border: 1px brown solid;
+} */
+li {
+    display: inline;
+    padding-left: 8.5%;
+}
+nav  {
+    padding-bottom: 5px;
+    background-color: cadetblue;
+    align-items: center;
+}
+nav li  {
+  
+
+}
+img{
+    
+    width: 50px;
+}
